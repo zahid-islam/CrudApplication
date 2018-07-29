@@ -1,0 +1,131 @@
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\ApplicationInsights.config
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\csc.exe
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\vbc.exe
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\VBCSCompiler.exe
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\ProductApi.dll.config
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\ProductApi.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\ProductApi.pdb
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Antlr3.Runtime.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\EntityFramework.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\EntityFramework.SqlServer.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.Web.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.ApplicationInsights.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Newtonsoft.Json.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Net.Http.Formatting.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Cors.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Helpers.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Http.Cors.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Http.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Http.WebHost.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Mvc.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Optimization.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Razor.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.WebPages.Deployment.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.WebPages.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.WebPages.Razor.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\WebGrease.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\EntityFramework.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\EntityFramework.SqlServer.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.Web.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.ApplicationInsights.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Net.Http.Formatting.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Http.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Http.Cors.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Newtonsoft.Json.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Helpers.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Http.WebHost.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Mvc.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Optimization.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.Razor.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.WebPages.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.WebPages.Deployment.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\System.Web.WebPages.Razor.xml
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\bin\Antlr3.Runtime.pdb
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\obj\Debug\ProductApi.dll
+E:\Zahid Angular\AngularTestForCommEng\ProductApi\ProductApi\obj\Debug\ProductApi.pdb
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\ProductApi.dll.config
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\ProductApi.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\ProductApi.pdb
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\EntityFramework.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\WebGrease.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\EntityFramework.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\obj\Debug\ProductApi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\obj\Debug\ProductApi.dll
+C:\Users\User\Desktop\Test\ProductApi\ProductApi\obj\Debug\ProductApi.pdb
